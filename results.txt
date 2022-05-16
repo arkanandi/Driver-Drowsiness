@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+        yawn       0.62      0.53      0.57        19
+     no_yawn       0.70      0.66      0.68        29
+      Closed       0.95      0.92      0.93        62
+        Open       0.89      0.96      0.92        83
+
+    accuracy                           0.86       193
+   macro avg       0.79      0.77      0.78       193
+weighted avg       0.85      0.86      0.86       193
+
+The driver is not drowsy
