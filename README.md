@@ -27,6 +27,11 @@ Run the train.py to train the model with the below command:
 
 You can change the image and the conditions to check for drowsiness as required. This is just a basic application with more updates coming in the future.
 
+## Loss and Accuracy Plots
+
+![Loss](https://github.com/arkanandi/Driver-Drowsiness/blob/ba17185ba762eb6acbc9b524591b18c0fc33f775/Loss_Plot.png "Loss Plot")
+![Accuracy](https://github.com/arkanandi/Driver-Drowsiness/blob/ba17185ba762eb6acbc9b524591b18c0fc33f775/Accuracy_Plot.png "Accuracy Plot")
+
 ## Citation
 
 @inproceedings{tan2019efficientnet,
@@ -37,4 +42,3 @@ You can change the image and the conditions to check for drowsiness as required.
   year={2019},
   organization={PMLR}
 }
-
